@@ -59,7 +59,7 @@
 1605099347 source:c:\users\amarquez\downloads\practica1a_ayuda_2020\src\fecha.cpp
 	"Fecha.h"
 
-1760474553 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\src\cliente.cpp
+1760474891 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\src\cliente.cpp
 	<cstring>
 	"Cliente.h"
 	"Fecha.h"
@@ -76,9 +76,39 @@
 	"Fecha.h"
 	<iostream>
 
-1759908384 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\main.cpp
+1761117764 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\main.cpp
 	<cstdlib>
 	<iostream>
 	"Fecha.h"
 	"Cliente.h"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1761118346 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<iostream>
+
+1761118012 c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\include\contratomovil.h
+	"Fecha.h"
+	"Contrato.h"
+
+1761118276 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\src\contratotp.cpp
+	"ContratoTP.h"
+	<iostream>
+
+1761118001 c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\include\contratotp.h
+	"Fecha.h"
+	"Contrato.h"
+
+1761117339 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\src\contrato.cpp
+	"Contrato.h"
+	<iostream>
+
+1761117990 c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\practica1\include\contrato.h
+	"Fecha.h"
 
